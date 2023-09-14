@@ -5,14 +5,14 @@
  * @package   LeafyDOC_Custom
  * @link      https://rankfoundry.com
  * @copyright Copyright (C) 2021-2023, Rank Foundry LLC - support@rankfoundry.com
- * @since     1.1.1
+ * @since     1.1.0
  * @license   GPL-2.0+
  *
  * @wordpress-plugin
  * Plugin Name: LeafyDOC Custom
  * Plugin URI:  https://rankfoundry.com/plugins/leafydoc
  * Description: A plugin of custom features for use by LeafyDOC.
- * Version:     1.1.0
+ * Version:     1.1.2
  * Author:      Rank Foundry
  * Author URI:  https://rankfoundry.com
  * License:     GPL-2.0+
@@ -28,7 +28,7 @@ if (!defined('WPINC')) {
 
 // Define plugin version
 if (!defined('LEAFYDOC_CUSTOM_VERSION')) {
-    define('LEAFYDOC_CUSTOM_VERSION', '1.1.0');
+    define('LEAFYDOC_CUSTOM_VERSION', '1.1.2');
 }
 
 // Define plugin directory path
