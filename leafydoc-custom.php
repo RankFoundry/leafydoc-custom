@@ -5,7 +5,7 @@
  * @package   LeafyDOC_Custom
  * @link      https://rankfoundry.com
  * @copyright Copyright (C) 2021-2023, Rank Foundry LLC - support@rankfoundry.com
- * @since     1.1.0
+ * @since     1.1.1
  * @license   GPL-2.0+
  *
  * @wordpress-plugin

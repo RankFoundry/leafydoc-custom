@@ -21,7 +21,7 @@ class LeafyDOC_Custom_Admin {
             $this->plugin_name . '-menu',  // Menu slug (this is a dummy slug for a non-clickable title)
             array($this, 'display_settings_page'), // Default callback function
             'data:image/svg+xml;base64,' . base64_encode( $menu_icon ), // Icon URL 
-            100                            // Position (optional)
+            4                            // Position (optional)
         );
     
         // Override the default submenu with your settings
