@@ -21,6 +21,9 @@ class LeafyDOC_Custom {
      */
     protected $version;
 
+    public $admin;
+    public $states;
+
     /**
      * Define the core functionality of the plugin.
      */

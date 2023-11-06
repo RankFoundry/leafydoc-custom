@@ -12,7 +12,7 @@
  * Plugin Name: LeafyDOC Custom
  * Plugin URI:  https://rankfoundry.com/plugins/leafydoc
  * Description: A plugin of custom features for use by LeafyDOC.
- * Version:     1.1.2
+ * Version:     1.1.3
  * Author:      Rank Foundry
  * Author URI:  https://rankfoundry.com
  * License:     GPL-2.0+
@@ -28,7 +28,7 @@ if (!defined('WPINC')) {
 
 // Define plugin version
 if (!defined('LEAFYDOC_CUSTOM_VERSION')) {
-    define('LEAFYDOC_CUSTOM_VERSION', '1.1.2');
+    define('LEAFYDOC_CUSTOM_VERSION', '1.1.3');
 }
 
 // Define plugin directory path
